@@ -16,7 +16,6 @@
       "name": "cut-files",
       "icon": "cut-icon.png",
       "title": "Cut files",
-      "subtitle": "Cut selected files in Finder",
       "description": "Cuts the selected files in Finder and stores them in the clipboard",
       "mode": "no-view"
     },
@@ -24,7 +23,6 @@
       "name": "paste-files",
       "icon": "paste-icon.png",
       "title": "Paste files",
-      "subtitle": "Paste files from clipboard in Finder",
       "description": "Pastes the files from the clipboard into the current Finder window",
       "mode": "no-view"
     }
